@@ -1,0 +1,2 @@
+Objetivos del master:
+	1. Aprender git.
