@@ -1,0 +1,4 @@
+Objetivos del master:
+	1. Aprender git.
+	2. Mejorar lógica de programacion.
+	3. Hacer proyectos reales.
